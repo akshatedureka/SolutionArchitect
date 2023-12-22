@@ -5,3 +5,10 @@ https://radixweb.com/blog/what-is-application-architecture
 https://www.mendix.com/blog/best-practices-for-enterprise-application-architecture/
 https://www.mendix.com/blog/private-vs-public-clouds-differences/
 https://www.mendix.com/blog/upgrading-legacy-systems/
+
+https://www.mendix.com/blog/turn-legacy-banking-systems-into-fintech-solutions-that-scale/
+https://www.mendix.com/blog/turn-manual-processes-into-modern-banking-with-low-code/
+https://www.mendix.com/blog/create-a-better-mobile-banking-experience-with-low-code/
+https://www.mendix.com/blog/5-features-wealth-management-firms-should-look-for-in-a-low-code-development-platform/
+https://www.mendix.com/videos/creating-a-rest-service-heavy-native-app-with-a-non-persistable-domain-model/
+https://www.mendix.com/blog/fueling-a-digital-financial-services-ecosystem/
